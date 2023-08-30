@@ -81,7 +81,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="web development"
           >
-            <a href="https://phorst-app.vercel.app/">
+            <a href="https://phorst-app.vercel.app/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
