@@ -97,7 +97,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="web design"
           >
-            <a href="#">
+            <a href="https://rahmat-chat-app.vercel.app" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
