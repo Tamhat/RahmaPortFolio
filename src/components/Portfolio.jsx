@@ -113,7 +113,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="applications"
           >
-            <a href="#">
+            <a href="https://video-app-rahmat.vercel.app" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
