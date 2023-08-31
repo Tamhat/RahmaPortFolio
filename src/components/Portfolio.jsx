@@ -129,7 +129,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="web design"
           >
-            <a  href="https://romax-dev.vercel.app/" target="_blank" rel="noreferrer">
+            <a href="https://geekedgorillas.io/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
@@ -165,7 +165,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="web development"
           >
-            <a href="#">
+            <a href="https://romax-dev.vercel.app/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
@@ -185,7 +185,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="applications"
           >
-            <a href="#">
+            <a href="https://rahmat-ullah-badsha-profile.vercel.app/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
