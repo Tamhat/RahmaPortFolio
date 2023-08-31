@@ -205,7 +205,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="web development"
           >
-            <a href="#">
+            <a  href="https://tamhat-github-io.vercel.app/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
