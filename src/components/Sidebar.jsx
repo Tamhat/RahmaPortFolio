@@ -68,7 +68,7 @@ const Sidebar = () => {
         <ul className="social-list">
           <li className="social-item">
             <a
-              href="https://www.facebook.com/rahmatullah.433"
+              href="https://www.facebook.com/profile.php?id=100086381902739"
               className="social-link"
             >
               <ion-icon name="logo-facebook" />
@@ -76,7 +76,7 @@ const Sidebar = () => {
           </li>
           <li className="social-item">
             <a
-              href="https://twitter.com/RahmatUllah433"
+              href="https://twitter.com/Rahmatur181"
               className="social-link"
             >
               <ion-icon name="logo-twitter" />
