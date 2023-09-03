@@ -11,22 +11,22 @@ const Navbar = () => {
             About
           </button>
         </NavLink>
-        <NavLink to="/resume" className="navbar-item">
+        <NavLink to="https://rahma-dev.vercel.app/resume" className="navbar-item">
           <button className="navbar-link" data-nav-link>
             Resume
           </button>
         </NavLink>
-        <NavLink to="/portfolio" className="navbar-item">
+        <NavLink to="https://rahma-dev.vercel.app/portfolio" className="navbar-item">
           <button className="navbar-link" data-nav-link>
             Portfolio
           </button>
         </NavLink>
-        <NavLink to="/blog" className="navbar-item">
+        <NavLink to="https://rahma-dev.vercel.app/blog" className="navbar-item">
           <button className="navbar-link" data-nav-link>
             Blog
           </button>
         </NavLink>
-        <NavLink to="/contact" className="navbar-item">
+        <NavLink to="https://rahma-dev.vercel.app/contact" className="navbar-item">
           <button className="navbar-link" data-nav-link>
             Contact
           </button>
