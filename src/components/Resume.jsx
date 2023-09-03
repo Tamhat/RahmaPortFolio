@@ -97,60 +97,60 @@ const Resume = () => {
               <li className="skills-item">
                 <div className="title-wrapper">
                   <h5 className="h5">Front End Development</h5>
-                  <data value={90}>90%</data>
+                  <data value={100}>100%</data>
                 </div>
                 <div className="skill-progress-bg">
                   <div
                     className="skill-progress-fill"
-                    style={{ width: "90%" }}
+                    style={{ width: "100%" }}
                   />
                 </div>
               </li>
               <li className="skills-item">
                 <div className="title-wrapper">
                   <h5 className="h5">Back-End Development</h5>
-                  <data value={70}>70%</data>
+                  <data value={100}>100%</data>
                 </div>
                 <div className="skill-progress-bg">
                   <div
                     className="skill-progress-fill"
-                    style={{ width: "70%" }}
+                    style={{ width: "100%" }}
                   />
                 </div>
               </li>
               <li className="skills-item">
                 <div className="title-wrapper">
                   <h5 className="h5">Personal Branding</h5>
-                  <data value={90}>90%</data>
+                  <data value={100}>100%</data>
                 </div>
                 <div className="skill-progress-bg">
                   <div
                     className="skill-progress-fill"
-                    style={{ width: "90%" }}
+                    style={{ width: "100%" }}
                   />
                 </div>
               </li>
               <li className="skills-item">
                 <div className="title-wrapper">
                   <h5 className="h5">Time Management</h5>
-                  <data value={95}>95%</data>
+                  <data value={100}>100%</data>
                 </div>
                 <div className="skill-progress-bg">
                   <div
                     className="skill-progress-fill"
-                    style={{ width: "95%" }}
+                    style={{ width: "100%" }}
                   />
                 </div>
               </li>
               <li className="skills-item">
                 <div className="title-wrapper">
                   <h5 className="h5">Excellent in Communication</h5>
-                  <data value={70}>70%</data>
+                  <data value={100}>100%</data>
                 </div>
                 <div className="skill-progress-bg">
                   <div
                     className="skill-progress-fill"
-                    style={{ width: "70%" }}
+                    style={{ width: "100%" }}
                   />
                 </div>
               </li>
