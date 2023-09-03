@@ -39,7 +39,7 @@ const About = () => {
           </p>
         </section>
         <section className="service">
-          <h3 className="h3 service-title">💪What i'm doing</h3>
+          <h3 className="h3 service-title">💪What I do</h3>
           <ul className="service-list">
             <li className="service-item">
               <div className="service-icon-box">
@@ -83,7 +83,7 @@ const About = () => {
               <div className="service-content-box">
                 <h4 className="h4 service-item-title">Photography</h4>
                 <p className="service-item-text">
-                  I make high-quality photos of any category at a professional
+                  I Click high-quality photos of any category at a professional
                   level.
                 </p>
               </div>
