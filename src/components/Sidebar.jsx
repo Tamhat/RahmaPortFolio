@@ -90,6 +90,14 @@ const Sidebar = () => {
               <ion-icon name="logo-instagram" />
             </a>
           </li>
+          <li className="social-item">
+            <a
+              href="https://call.whatsapp.com/voice/Rohdg1PHr5maRgjSdBOAH1"
+              className="social-link"
+            >
+              <ion-icon name="logo-whatsapp" />
+            </a>
+          </li>
           
         </ul>
       </div>
