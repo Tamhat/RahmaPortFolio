@@ -50,14 +50,16 @@ const Contact = () => {
               data-form-input
               defaultValue={""}
             />
+            <div classname=''button-contact'>
             <button className="form-btn" type="submit" disabled data-form-btn>
               <ion-icon name="paper-plane" />
               <span>Send Message</span>
             </button>
-            <button className="form-btn" type="submit" data-form-btn href="https://call.whatsapp.com/voice/Rohdg1PHr5maRgjSdBOAH1">
+            <button className="form-btn" data-form-btn href="https://call.whatsapp.com/voice/Rohdg1PHr5maRgjSdBOAH1">
               <ion-icon name="logo-whatsapp" />
               <span>Call Me</span>
             </button>
+          </div>
           </form>
         </section>
       </article>
