@@ -84,7 +84,7 @@ const Sidebar = () => {
           </li>
           <li className="social-item">
             <a
-              href="https://www.instagram.com/ihsankazim123/"
+              href="https://www.instagram.com/rahmatullah.433/"
               className="social-link"
             >
               <ion-icon name="logo-instagram" />
