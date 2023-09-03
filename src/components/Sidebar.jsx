@@ -7,7 +7,7 @@ const Sidebar = () => {
     <aside className="sidebar" data-sidebar>
       <div className="sidebar-info">
         <figure className="avatar-box">
-          <img src={img1} alt="Rahmat Ullah " width={80} />
+          <img src="https://i.ibb.co/nzck4HN/371538920-309053818467445-8394852017439000874-n-removebg-preview-fotor-2023090120042.png" alt="Rahmat Ullah " width={80} />
         </figure>
         <div className="info-content">
           <h1 className="name" title="RahmaWeb">

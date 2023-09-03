@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import img2 from "../assets/icon-quote.svg";
 import img3 from "../assets/icon-design.svg";
 import img4 from "../assets/icon-dev.svg";
@@ -6,7 +5,6 @@ import img5 from "../assets/icon-app.svg";
 import img6 from "../assets/icon-photo.svg";
 import avt1 from "../assets/avatar-1.png";
 import avt2 from "../assets/avatar-4.png";
-import avt3 from "../assets/my-avatar.png";
 import logo1 from "../assets/logo-1-color.png";
 import logo2 from "../assets/logo-2-color.png";
 import logo3 from "../assets/logo-3-color.png";
@@ -25,7 +23,7 @@ const About = () => {
         </header>
         <section className="about-text">
           <p>
-            I'm Full Stack MERN Developer and Digital marketer from Dhaka, Bangladesh, working
+            I'm Full Stack MERN Developer with both Front-end and Back-end, working
             in web development and Design. I enjoy turning complex problems into
             simple, beautiful and intuitive designs.
           </p>
@@ -97,7 +95,31 @@ const About = () => {
               <div className="content-card" data-testimonials-item>
                 <figure className="testimonials-avatar-box">
                   <img
-                    src={avt1}
+                    src="https://i.ibb.co/XJLkx9b/C329-F74-E-414-C-4461-B189-F2300-C4697-AB.webp"
+                    alt="Henry william"
+                    width={60}
+                    data-testimonials-avatar
+                  />
+                </figure>
+                <h4
+                  className="h4 testimonials-item-title"
+                  data-testimonials-title
+                >
+                  Nizihad824
+                </h4>
+                <div className="testimonials-text" data-testimonials-text>
+                  <p>
+                    🇩🇪Germany <br />I am satisfied with his work.Wanna work with
+                    him again.
+                  </p>
+                </div>
+              </div>
+            </li>
+            <li className="testimonials-item">
+              <div className="content-card" data-testimonials-item>
+                <figure className="testimonials-avatar-box">
+                  <img
+                    src="https://i.ibb.co/WPT7HMH/f78b2b91-3ea3-4c81-a7e6-2332dbfb2c7f.webp"
                     alt="Daniel lewis"
                     width={60}
                     data-testimonials-avatar
@@ -120,11 +142,13 @@ const About = () => {
                 </div>
               </div>
             </li>
+            
             <li className="testimonials-item">
               <div className="content-card" data-testimonials-item>
                 <figure className="testimonials-avatar-box">
                   <img
-                    src={avt2}
+                    src={avt1}
+
                     alt="Jessica miller"
                     width={60}
                     data-testimonials-avatar
@@ -150,7 +174,8 @@ const About = () => {
               <div className="content-card" data-testimonials-item>
                 <figure className="testimonials-avatar-box">
                   <img
-                    src={avt3}
+                    src={avt2}
+
                     alt="Emily evans"
                     width={60}
                     data-testimonials-avatar
@@ -171,30 +196,7 @@ const About = () => {
                 </div>
               </div>
             </li>
-            <li className="testimonials-item">
-              <div className="content-card" data-testimonials-item>
-                <figure className="testimonials-avatar-box">
-                  <img
-                    src={avt1}
-                    alt="Henry william"
-                    width={60}
-                    data-testimonials-avatar
-                  />
-                </figure>
-                <h4
-                  className="h4 testimonials-item-title"
-                  data-testimonials-title
-                >
-                  Nizihad824
-                </h4>
-                <div className="testimonials-text" data-testimonials-text>
-                  <p>
-                    🇩🇪Germany <br />I am satisfied with his work.Wanna work with
-                    him again.
-                  </p>
-                </div>
-              </div>
-            </li>
+            
           </ul>
         </section>
         <div className="modal-container" data-modal-container>
@@ -206,7 +208,7 @@ const About = () => {
             <div className="modal-img-wrapper">
               <figure className="modal-avatar-box">
                 <img
-                  src={avt1}
+                    src="https://i.ibb.co/XJLkx9b/C329-F74-E-414-C-4461-B189-F2300-C4697-AB.webp"
                   alt="Daniel lewis"
                   width={80}
                   data-modal-img

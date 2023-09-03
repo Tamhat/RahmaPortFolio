@@ -1,4 +1,3 @@
-import { React } from "react";
 import Home from "./Home";
 
 const Contact = () => {
@@ -8,19 +7,6 @@ const Contact = () => {
         <header>
           <h2 className="h2 article-title">Contact</h2>
         </header>
-        <section className="mapbox" data-mapbox>
-          <figure>
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29228.862086118028!2d90.4042152849278!3d23.68998112698406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b9e7d89677bd%3A0x3b5c34ece56ca8e!2sJurain%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1686176119515!5m2!1sen!2sbd"
-              width={600}
-              height={450}
-              style={{ border: 0 }}
-              allowFullScreen
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            />
-          </figure>
-        </section>
         <section className="contact-form">
           <h3 className="h3 form-title">Contact Form</h3>
           <form action="#" className="form" data-form>
@@ -49,17 +35,22 @@ const Contact = () => {
               required
               data-form-input
               defaultValue={""}
+              rows={15}
             />
-            <div classname=''button-contact'>
-            <button className="form-btn" type="submit" disabled data-form-btn>
-              <ion-icon name="paper-plane" />
-              <span>Send Message</span>
-            </button>
-            <button className="form-btn" data-form-btn href="https://call.whatsapp.com/voice/Rohdg1PHr5maRgjSdBOAH1">
-              <ion-icon name="logo-whatsapp" />
-              <span>Call Me</span>
-            </button>
-          </div>
+            <div className="button-contact">
+              <button className="form-btn" type="submit" disabled data-form-btn>
+                <ion-icon name="paper-plane" />
+                <span>Send Message</span>
+              </button>
+              <a
+                className="call-btn"
+                href="https://call.whatsapp.com/voice/Rohdg1PHr5maRgjSdBOAH1"
+                target="_blank" rel="noreferrer" 
+              >
+                <ion-icon name="logo-whatsapp" />
+                <span>Call Me</span>
+              </a>
+            </div>
           </form>
         </section>
       </article>
