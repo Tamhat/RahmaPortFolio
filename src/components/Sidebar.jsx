@@ -90,14 +90,7 @@ const Sidebar = () => {
               <ion-icon name="logo-instagram" />
             </a>
           </li>
-          <li className="social-item">
-            <a
-              href="https://www.fiverr.com/coderboyrahmat6"
-              className="social-link"
-            >
-              <img src={fiverr} style={{width: "20px"}}/>
-            </a>
-          </li>
+          
         </ul>
       </div>
     </aside>
