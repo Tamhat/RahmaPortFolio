@@ -65,14 +65,14 @@ const Portfolio = () => {
             data-filter-item
             data-category="web development"
           >
-            <a href="https://ecommerce-app-server-dpe6.onrender.com/" target="_blank" rel="noreferrer" >
+            <a href="https://ai-spotlights.com/" target="_blank" rel="noreferrer" >
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
                 </div>
                 <img src={img1} alt="finance" loading="lazy" />
               </figure>
-              <h3 className="project-title">Finance</h3>
+              <h3 className="project-title">Ai Directory</h3>
               <p className="project-category">Web development</p>
             </a>
           </li>
@@ -88,8 +88,8 @@ const Portfolio = () => {
                 </div>
                 <img src={img2} alt="orizon" loading="lazy" />
               </figure>
-              <h3 className="project-title">Orizon</h3>
-              <p className="project-category">Web development</p>
+              <h3 className="project-title">Phorst</h3>
+              <p className="project-category">Social Media Web</p>
             </a>
           </li>
           <li
@@ -97,15 +97,15 @@ const Portfolio = () => {
             data-filter-item
             data-category="web design"
           >
-            <a href="https://rahmat-chat-app.vercel.app" target="_blank" rel="noreferrer">
+            <a href="https://virtual-travel.netlify.app/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
                 </div>
                 <img src={img3} alt="fundo" loading="lazy" />
               </figure>
-              <h3 className="project-title">Fundo</h3>
-              <p className="project-category">Web design</p>
+              <h3 className="project-title">Blockchain</h3>
+              <p className="project-category">Web Development</p>
             </a>
           </li>
           <li
@@ -113,15 +113,31 @@ const Portfolio = () => {
             data-filter-item
             data-category="applications"
           >
-            <a href="https://video-app-rahmat.vercel.app" target="_blank" rel="noreferrer">
+            <a href="https://jexiexchange.com/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
                 </div>
                 <img src={img4} alt="brawlhalla" loading="lazy" />
               </figure>
-              <h3 className="project-title">Brawlhalla</h3>
-              <p className="project-category">Applications</p>
+              <h3 className="project-title">Crypto</h3>
+              <p className="project-category">Web Development</p>
+            </a>
+          </li>
+          <li
+            className="project-item  active"
+            data-filter-item
+            data-category="web design"
+          >
+            <a href="https://romax-dev.vercel.app/" target="_blank" rel="noreferrer">
+              <figure className="project-img">
+                <div className="project-item-icon-box">
+                  <ion-icon name="eye-outline" />
+                </div>
+                <img src={img5} alt="dsm." loading="lazy" />
+              </figure>
+              <h3 className="project-title">Romax Dev</h3>
+              <p className="project-category">Web Design</p>
             </a>
           </li>
           <li
@@ -134,29 +150,13 @@ const Portfolio = () => {
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
                 </div>
-                <img src={img5} alt="dsm." loading="lazy" />
-              </figure>
-              <h3 className="project-title">DSM.</h3>
-              <p className="project-category">Web design</p>
-            </a>
-          </li>
-          <li
-            className="project-item  active"
-            data-filter-item
-            data-category="web design"
-          >
-            <a href="https://rahmat-hospital-service.vercel.app/" target="_blank" rel="noreferrer">
-              <figure className="project-img">
-                <div className="project-item-icon-box">
-                  <ion-icon name="eye-outline" />
-                </div>
                 <img
                   src={img6}
                   alt="metaspark"
                   loading="lazy"
                 />
               </figure>
-              <h3 className="project-title">MetaSpark</h3>
+              <h3 className="project-title">GeekedGorillas</h3>
               <p className="project-category">Web design</p>
             </a>
           </li>
@@ -165,7 +165,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="web development"
           >
-            <a href="https://romax-dev.vercel.app/" target="_blank" rel="noreferrer">
+            <a href="https://ai-tech-craft-ten.vercel.app/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
@@ -176,7 +176,7 @@ const Portfolio = () => {
                   loading="lazy"
                 />
               </figure>
-              <h3 className="project-title">Summary</h3>
+              <h3 className="project-title">Agency</h3>
               <p className="project-category">Web development</p>
             </a>
           </li>
@@ -185,7 +185,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="applications"
           >
-            <a href="https://rahmat-ullah-badsha-profile.vercel.app/" target="_blank" rel="noreferrer">
+            <a href="https://digitf.vercel.app/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
@@ -196,8 +196,8 @@ const Portfolio = () => {
                   loading="lazy"
                 />
               </figure>
-              <h3 className="project-title">Task Manager</h3>
-              <p className="project-category">Applications</p>
+              <h3 className="project-title">Landing Page</h3>
+              <p className="project-category">Web Development</p>
             </a>
           </li>
           <li
@@ -205,7 +205,7 @@ const Portfolio = () => {
             data-filter-item
             data-category="web development"
           >
-            <a  href="https://tamhat-github-io.vercel.app/" target="_blank" rel="noreferrer">
+            <a  href="https://zon-cafee-1.vercel.app/" target="_blank" rel="noreferrer">
               <figure className="project-img">
                 <div className="project-item-icon-box">
                   <ion-icon name="eye-outline" />
@@ -216,8 +216,108 @@ const Portfolio = () => {
                   loading="lazy"
                 />
               </figure>
-              <h3 className="project-title">Arrival</h3>
+              <h3 className="project-title">Landing Page</h3>
               <p className="project-category">Web development</p>
+            </a>
+          </li>
+          <li
+            className="project-item  active"
+            data-filter-item
+            data-category="applications"
+          >
+            <a href="https://restoran-lyart.vercel.app/" target="_blank" rel="noreferrer">
+              <figure className="project-img">
+                <div className="project-item-icon-box">
+                  <ion-icon name="eye-outline" />
+                </div>
+                <img
+                  src={img1}
+                  alt="task manager"
+                  loading="lazy"
+                />
+              </figure>
+              <h3 className="project-title">Landing Page</h3>
+              <p className="project-category">Web Development</p>
+            </a>
+          </li>
+          <li
+            className="project-item  active"
+            data-filter-item
+            data-category="applications"
+          >
+            <a href="https://doze-cafe.vercel.app/" target="_blank" rel="noreferrer">
+              <figure className="project-img">
+                <div className="project-item-icon-box">
+                  <ion-icon name="eye-outline" />
+                </div>
+                <img
+                  src={img8}
+                  alt="task manager"
+                  loading="lazy"
+                />
+              </figure>
+              <h3 className="project-title">Landing Page</h3>
+              <p className="project-category">Web Development</p>
+            </a>
+          </li>
+          <li
+            className="project-item  active"
+            data-filter-item
+            data-category="applications"
+          >
+            <a href="https://wealee-rahma.vercel.app/" target="_blank" rel="noreferrer">
+              <figure className="project-img">
+                <div className="project-item-icon-box">
+                  <ion-icon name="eye-outline" />
+                </div>
+                <img
+                  src={img4}
+                  alt="task manager"
+                  loading="lazy"
+                />
+              </figure>
+              <h3 className="project-title">Landing Page</h3>
+              <p className="project-category">Web Development</p>
+            </a>
+          </li>
+          <li
+            className="project-item  active"
+            data-filter-item
+            data-category="applications"
+          >
+            <a href="https://cakezone-zeta.vercel.app/" target="_blank" rel="noreferrer">
+              <figure className="project-img">
+                <div className="project-item-icon-box">
+                  <ion-icon name="eye-outline" />
+                </div>
+                <img
+                  src={img4}
+                  alt="task manager"
+                  loading="lazy"
+                />
+              </figure>
+              <h3 className="project-title">Landing Page</h3>
+              <p className="project-category">Web Development</p>
+            </a>
+          </li>
+          <li
+            className="project-item  active"
+            data-filter-item
+            data-category="applications"
+          >
+            <a href="https://ecommerce-app-server-dpe6.onrender.com/" target="_blank" rel="noreferrer">
+              <figure className="project-img">
+                <div className="project-item-icon-box">
+                  <ion-icon name="eye-outline" />
+                </div>
+                <img
+                  src={img2}
+                  alt="task manager"
+                  loading="lazy"
+                />
+              </figure>
+              <h3 className="project-title">Ecommerce</h3>
+              <p className="project-category">Web Development</p>
             </a>
           </li>
         </ul>
