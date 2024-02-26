@@ -20,6 +20,15 @@ const Resume = () => {
             <ol className="timeline-list">
               <li className="timeline-item">
                 <h4 className="h4 timeline-item-title">
+                  Munshigonj Govt Polytechnical Institute
+                </h4>
+                <span>2023 — 2027</span>
+                <p className="timeline-text">
+                  After my Secondery Education I admitted in this Institute with Computer Science Subject. and till now iam in here
+                </p>
+              </li>
+              <li className="timeline-item">
+                <h4 className="h4 timeline-item-title">
                   Jurain Sheikh Kamal Govt High School
                 </h4>
                 <span>2018 — 2023</span>
@@ -45,7 +54,7 @@ const Resume = () => {
                 <h4 className="h4 timeline-item-title">
                   Still upgrading My skills
                 </h4>
-                <span>2021 — Running </span>
+                <span>2020 — Running </span>
                 <p className="timeline-text">
                   I am still upgrading my skills and learning new things. I am
                   also working on some projects to gain experience.
@@ -62,8 +71,16 @@ const Resume = () => {
             </div>
             <ol className="timeline-list">
               <li className="timeline-item">
+                <h4 className="h4 timeline-item-title">Web developer at AI Tech Craft</h4>
+                <span>2023/Dec — 2024/Present</span>
+                <p className="timeline-text">
+                  As a professional Full Stack web developer I working with Ai tech Craft. 
+                  I have worked with many Professionals and learned many things from them in here.
+                </p>
+              </li>
+              <li className="timeline-item">
                 <h4 className="h4 timeline-item-title">Web developer</h4>
-                <span>2021 — Present</span>
+                <span>2020 — Present</span>
                 <p className="timeline-text">
                   As a professional web developer I have worked with many
                   clients and companies. I have worked with many Professionals
