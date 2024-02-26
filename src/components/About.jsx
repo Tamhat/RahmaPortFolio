@@ -23,7 +23,7 @@ const About = () => {
         </header>
         <section className="about-text">
           <p>
-            I'm Full Stack MERN Developer with both Front-end and Back-end, working
+            I'm Full Stack MERN Developer with 4 years of experience in both Front-end and Back-end, working
             in web development and Design. I enjoy turning complex problems into
             simple, beautiful and intuitive designs.
           </p>
